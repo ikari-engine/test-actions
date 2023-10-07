@@ -1,0 +1,19 @@
+{
+  "name": "@ikari-engine/test-actions-one",
+  "version": "0.0.0-development.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikari-engine/test-actions.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ikari-engine/test-actions/issues"
+  },
+  "homepage": "https://github.com/ikari-engine/test-actions#readme"
+}
