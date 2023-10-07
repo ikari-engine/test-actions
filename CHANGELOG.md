@@ -1,3 +1,15 @@
+# 1.0.0 (2023-10-07)
+
+
+### Bug Fixes
+
+* **semantic-release-plugin:** change entry point ([ee09bfe](https://github.com/ikari-engine/test-actions/commit/ee09bfe7d4983af3037c135eeda7624455c31f2a))
+
+
+### Features
+
+* **semantic-release-plugin:** initialize plugin ([54ddacb](https://github.com/ikari-engine/test-actions/commit/54ddacbd05f2c007517c432c284bde684af46e22))
+
 # 1.0.0-development.1 (2023-10-07)
 
 
